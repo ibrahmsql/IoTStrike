@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 yiğit ibrahim 
+Copyright (c) 2024 IoTStrike Hardware Security Framework
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+DISCLAIMER:
+This software is designed for authorized security testing and research purposes only.
+Users are responsible for ensuring they have proper authorization before testing any
+systems. The authors and contributors are not responsible for any misuse, damage,
+or illegal activities conducted with this software.
+
+By using this software, you agree to:
+1. Use it only on systems you own or have explicit written permission to test
+2. Comply with all applicable local, state, and federal laws
+3. Not use it for malicious purposes or unauthorized access
+4. Take full responsibility for your actions while using this software
+
+The IoTStrike Hardware Security Framework is intended to improve security through
+responsible disclosure and authorized testing. Any misuse of this software is
+strictly prohibited and may result in legal consequences.
