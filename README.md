@@ -2,7 +2,7 @@
 
 **Advanced IoT and Embedded System Security Testing Platform**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/iotstrike/framework)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/ibrahmsql/iotstrike)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20ARM%20%7C%20MIPS-lightgrey.svg)](#supported-platforms)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#building)
